@@ -3,7 +3,7 @@
 
 ## Word Of The Day! 🎁
 <p align="center">
-<img width="550" src="https://img.shields.io/badge/Word%20Of%20The%20Day%3A-Could-brightgreen.svg?style=for-the-badge" alt="WOTD Wordle">
+<img width="550" src="https://img.shields.io/badge/Word%20Of%20The%20Day%3A-Wrung-brightgreen.svg?style=for-the-badge" alt="WOTD Wordle">
 </p>
 
 ## Game Information 🍀
